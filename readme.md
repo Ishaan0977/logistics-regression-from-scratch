@@ -52,5 +52,6 @@ Where gradients are computed manually.
 
 ```bash
 python logistic_regression.py
+```
 
 Author: Ishaan Sharma
